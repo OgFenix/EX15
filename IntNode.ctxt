@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=IntNode
+comment1.params=v\ leftSon\ rightSon
+comment1.target=IntNode(int,\ IntNode,\ IntNode)
+comment2.params=
+comment2.target=IntNode()
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=IntNode\ getRightSon()
+comment5.params=
+comment5.target=IntNode\ getLeftSon()
+comment6.params=v
+comment6.target=void\ setValue(int)
+comment7.params=n
+comment7.target=void\ setNextRightSon(IntNode)
+comment8.params=n
+comment8.target=void\ setNextLeftSon(IntNode)
+numComments=9

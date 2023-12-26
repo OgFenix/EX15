@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.target=Mman15Testing
+comment0.text=\ Copy\ the\ method\ to\ Set\ class\!\ -\ Just\ for\ testing,\ do\ not\ forget\ to\ delete\ before\ submitting\ the\ mman.\r\n\r\n\ \ \ \ public\ Set()\ {\r\n\ \ \ \ \ \ \ \ _head\ \=\ null;\r\n\ \ \ \ }\r\n\ \ \ \ public\ IntNode\ getHead(){\r\n\ \ \ \ \ \ \ \ return\ _head;\r\n\ \ \ \ }\r\n\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment10.params=
+comment10.target=void\ intersection()
+comment11.params=
+comment11.target=void\ union()
+comment12.params=
+comment12.target=void\ difference()
+comment13.params=head
+comment13.target=void\ sort(IntNode)
+comment2.params=
+comment2.target=void\ isEmpty()
+comment3.params=
+comment3.target=void\ isMember()
+comment4.params=
+comment4.target=void\ numOfElements()
+comment5.params=
+comment5.target=void\ addToSet()
+comment6.params=
+comment6.target=void\ removeFromSet()
+comment7.params=
+comment7.target=void\ toStringSet()
+comment8.params=
+comment8.target=void\ subSet()
+comment9.params=
+comment9.target=void\ equals()
+numComments=14
